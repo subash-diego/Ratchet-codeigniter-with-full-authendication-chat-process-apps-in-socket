@@ -1,0 +1,2 @@
+PHP Warning:  require(/var/www/html/chat/vendor/vendor/autoload.php): failed to open stream: No such file or directory in /var/www/html/chat/vendor/bin/server.php on line 7
+PHP Fatal error:  require(): Failed opening required '/var/www/html/chat/vendor/vendor/autoload.php' (include_path=':/usr/share/kopano/php') in /var/www/html/chat/vendor/bin/server.php on line 7
